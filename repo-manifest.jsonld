@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/in-toto/in-toto/commit/e352b43ad7cb8915d84c36d791aa61346152a0a3",
       "git:hexsha": "e352b43ad7cb8915d84c36d791aa61346152a0a3",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:03:25.594467+00:00"
     },
     {
       "@id": "https://repolex.ai/r/in-toto/in-toto/commit/460d9de97c8c802b6d3a9eb06978653a808485dd",

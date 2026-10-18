@@ -1,0 +1,7 @@
+[2026-10-18T05:01:43Z] === AST ITERATION 1 START | repo=in-toto/in-toto sha=e352b43a ===
+[2026-10-18T05:01:43Z] [iter=1] PHASE START: ast repo=in-toto/in-toto sha=e352b43a
+[2026-10-18T05:01:43Z] [iter=1] Building AST aggregate chunks
+[2026-10-18T05:02:24Z] [iter=1] AST chunks built count=1 triples=437146
+[2026-10-18T05:02:24Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/e352b43ad7cb8915d84c36d791aa61346152a0a3/.complete
+[2026-10-18T05:02:24Z] [iter=1] PHASE END: ast elapsed_s=41 elapsed_min=0.7
+[2026-10-18T05:02:24Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
